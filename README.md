@@ -9,11 +9,11 @@ Run `npm install` and install dependencies
 
 ## Backend server
 
-Run `json-server --watch db.json` for a dev server. Navigate to `[http://localhost:3000/tasks](http://localhost:3000/tasks)`. 
+Run `json-server --watch db.json` for a dev server. Navigate to `http://localhost:3000/tasks`. 
 
 ## Frontend server
 
-Run `npm start` for a dev server. Navigate to `[http://localhost:3000/tasks](http://localhost:4200/)`. 
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. 
 
 ## Further help
 
